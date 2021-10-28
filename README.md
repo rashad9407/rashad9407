@@ -1,3 +1,4 @@
+![20181111_125830](https://user-images.githubusercontent.com/93256437/139342309-74ffce65-de5c-4942-8cf3-59ed0ecef6fc.jpg)
 - 👋 Hi, I’m @rashad9407
 - 👀 I’m interested in ...coding as well as designing and also in international business 
 - 🌱 I’m currently learning ...html c++ js and wordpress..
